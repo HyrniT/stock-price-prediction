@@ -3,3 +3,6 @@ numpy
 matplotlib
 tensorflow
 scikit-learn
+dash 
+dash-html-components 
+dash-core-components
